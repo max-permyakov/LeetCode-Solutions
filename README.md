@@ -21,7 +21,7 @@ LeetCode-Solutions-CSharp/
 ├── leetcode/ # Задачи 
 │            
 │  
-│── Hard/          # тесты
+│── LeetCodeTest/          # тесты
 ```
 
 
